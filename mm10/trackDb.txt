@@ -98,20 +98,20 @@ color 134,45,134
 maxHeightPixels 8:50:128
 viewLimits 0:50
 
-track K27ac
-bigDataUrl K27ac.bigWig
-shortLabel K27ac
-longLabel K27ac
+track k27ac
+bigDataUrl k27ac.bigWig
+shortLabel k27ac
+longLabel k27ac
 type bigWig
 visibility full
 color 134,45,134
 maxHeightPixels 8:50:128
 viewLimits 0:50
 
-track K4me3
-bigDataUrl K4me3.bigWig
-shortLabel K4me3
-longLabel K4me3
+track k4me3
+bigDataUrl k4me3.bigWig
+shortLabel k4me3
+longLabel k4me3
 type bigWig
 visibility full
 color 134,45,134
