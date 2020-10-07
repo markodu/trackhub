@@ -1,0 +1,129 @@
+track H31FASTI
+bigDataUrl H31FASTI.bigWig
+shortLabel H31FASTI
+longLabel H31FASTI
+type bigWig
+visibility full
+color 51,204,255
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H31FASTII
+bigDataUrl H31FASTII.bigWig
+shortLabel H31FASTII
+longLabel H31FASTII
+type bigWig
+visibility full
+color 51,204,255
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H31NCI
+bigDataUrl H31NCI.bigWig
+shortLabel H31NCI
+longLabel H31NCI
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H31NCII
+bigDataUrl H31NCII.bigWig
+shortLabel H31NCII
+longLabel H31NCII
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H31FASTHA
+bigDataUrl H31FASTHA.bigWig
+shortLabel H31FASTHA
+longLabel H31FASTHA
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H31NCHA
+bigDataUrl H31NCHA.bigWig
+shortLabel H31NCHA
+longLabel H31NCHA
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33FASTI
+bigDataUrl H33FASTI.bigWig
+shortLabel H33FASTI
+longLabel H33FASTI
+type bigWig
+visibility full
+color 255,170,0
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33FASTII
+bigDataUrl H33FASTII.bigWig
+shortLabel H33FASTII
+longLabel H33FASTII
+type bigWig
+visibility full
+color 255,170,0
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33NCI
+bigDataUrl H33NCI.bigWig
+shortLabel H33NCI
+longLabel H33NCI
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33NCII
+bigDataUrl H33NCII.bigWig
+shortLabel H33NCII
+longLabel H33NCII
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track K27ac
+bigDataUrl K27ac.bigWig
+shortLabel K27ac
+longLabel K27ac
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track K4me3
+bigDataUrl K4me3.bigWig
+shortLabel K4me3
+longLabel K4me3
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H11input
+bigDataUrl H11input.bigWig
+shortLabel H11input
+longLabel H11input
+type bigWig
+visibility full
+color 89,89,89
+maxHeightPixels 8:50:128
+viewLimits 0:50
