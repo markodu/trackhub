@@ -168,7 +168,7 @@ color 153,0,76
 maxHeightPixels 8:50:128
 viewLimits 0:50
 
-track Oct4mm10
+track Oct4
 bigDataUrl Oct4mm10.bigWig
 shortLabel Oct4mm10
 longLabel Oct4mm10
@@ -178,7 +178,7 @@ color 153,0,76
 maxHeightPixels 8:50:128
 viewLimits 0:50
 
-track Sox2mm10
+track Sox2
 bigDataUrl Sox2mm10.bigWig
 shortLabel Sox2mm10
 longLabel Sox2mm10
@@ -188,7 +188,7 @@ color 153,0,76
 maxHeightPixels 8:50:128
 viewLimits 0:50
 
-track p300mm10
+track p300
 bigDataUrl p300mm10.bigWig
 shortLabel p300mm10
 longLabel p300mm10
