@@ -168,16 +168,6 @@ color 153,0,76
 maxHeightPixels 8:50:128
 viewLimits 0:50
 
-track Nanog
-bigDataUrl Nanog.bigWig
-shortLabel Nanog
-longLabel Nanog
-type bigWig
-visibility full
-color 153,0,76
-maxHeightPixels 8:50:128
-viewLimits 0:50
-
 track Oct4
 bigDataUrl Oct4.bigWig
 shortLabel Oct4
