@@ -5,7 +5,7 @@ longLabel H31FASTI
 type bigWig
 visibility full
 color 51,204,255
-maxHeightPixels 8:50:128
+maxHeightPixels 173:12:55
 viewLimits 0:50
 
 track H31NCI
@@ -185,7 +185,7 @@ longLabel Oct4
 type bigWig
 visibility full
 color 153,0,76
-maxHeightPixels 8:50:128
+maxHeightPixels 158:163:181
 viewLimits 0:50
 
 track Sox2
@@ -195,7 +195,7 @@ longLabel Sox2
 type bigWig
 visibility full
 color 153,0,76
-maxHeightPixels 8:50:128
+maxHeightPixels 158:163:181
 viewLimits 0:50
 
 track p300
@@ -205,7 +205,17 @@ longLabel p300
 type bigWig
 visibility full
 color 153,0,76
-maxHeightPixels 8:50:128
+maxHeightPixels 158:163:181
+viewLimits 0:50
+
+track CTCF
+bigDataUrl CTCF.bigWig
+shortLabel CTCF
+longLabel CTCF
+type bigWig
+visibility full
+color 153,0,76
+maxHeightPixels 145:23:7
 viewLimits 0:50
 
 track H11input
