@@ -168,10 +168,20 @@ color 153,0,76
 maxHeightPixels 8:50:128
 viewLimits 0:50
 
+track H33S31P
+bigDataUrl H33S31P.bigWig
+shortLabel H33S31P
+longLabel H33S31P
+type bigWig
+visibility full
+color 153,0,76
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
 track Oct4
-bigDataUrl Oct4mm10.bigWig
-shortLabel Oct4mm10
-longLabel Oct4mm10
+bigDataUrl Oct4.bigWig
+shortLabel Oct4
+longLabel Oct4
 type bigWig
 visibility full
 color 153,0,76
@@ -179,9 +189,9 @@ maxHeightPixels 8:50:128
 viewLimits 0:50
 
 track Sox2
-bigDataUrl Sox2mm10.bigWig
-shortLabel Sox2mm10
-longLabel Sox2mm10
+bigDataUrl Sox2.bigWig
+shortLabel Sox2
+longLabel Sox2
 type bigWig
 visibility full
 color 153,0,76
@@ -189,9 +199,9 @@ maxHeightPixels 8:50:128
 viewLimits 0:50
 
 track p300
-bigDataUrl p300mm10.bigWig
-shortLabel p300mm10
-longLabel p300mm10
+bigDataUrl p300.bigWig
+shortLabel p300
+longLabel p300
 type bigWig
 visibility full
 color 153,0,76
