@@ -1,0 +1,229 @@
+track H31FASTI
+bigDataUrl H31FASTI.bigWig
+shortLabel H31FASTI
+longLabel H31FASTI
+type bigWig
+visibility full
+color 51,204,255
+maxHeightPixels 173:12:55
+viewLimits 0:50
+
+track H31NCI
+bigDataUrl H31NCI.bigWig
+shortLabel H31NCI
+longLabel H31NCI
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H31FASTHA
+bigDataUrl H31FASTHA.bigWig
+shortLabel H31FASTHA
+longLabel H31FASTHA
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H31NCHA
+bigDataUrl H31NCHA.bigWig
+shortLabel H31NCHA
+longLabel H31NCHA
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H2BFASTI
+bigDataUrl H2BFASTI.bigWig
+shortLabel H2BFASTI
+longLabel H2BFASTI
+type bigWig
+visibility full
+color 51,204,255
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H2BNCI
+bigDataUrl H2BNCI.bigWig
+shortLabel H2BNCI
+longLabel H2BNCI
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H2BFASTHA
+bigDataUrl H2BFASTHA.bigWig
+shortLabel H2BFASTHA
+longLabel H2BFASTHA
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H2BNCHA
+bigDataUrl H2BNCHA.bigWig
+shortLabel H2BNCHA
+longLabel H2BNCHA
+type bigWig
+visibility full
+color 153,0,77
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33FASTII
+bigDataUrl H33FASTII.bigWig
+shortLabel H33FASTII
+longLabel H33FASTII
+type bigWig
+visibility full
+color 255,170,0
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33NCII
+bigDataUrl H33NCII.bigWig
+shortLabel H33NCII
+longLabel H33NCII
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33IIHA
+bigDataUrl H33IIHA.bigWig
+shortLabel H33IIHA
+longLabel H33IIHA
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33FASTIII
+bigDataUrl H33FASTIII.bigWig
+shortLabel H33FASTIII
+longLabel H33FASTIII
+type bigWig
+visibility full
+color 255,170,0
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33IIIHA
+bigDataUrl H33IIIHA.bigWig
+shortLabel H33IIIHA
+longLabel H33IIIHA
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track k27ac
+bigDataUrl k27ac.bigWig
+shortLabel k27ac
+longLabel k27ac
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track k4me3
+bigDataUrl k4me3.bigWig
+shortLabel k4me3
+longLabel k4me3
+type bigWig
+visibility full
+color 134,45,134
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track k27me3
+bigDataUrl k27me3.bigWig
+shortLabel k27me3
+longLabel k27me3
+type bigWig
+visibility full
+color 0,0,102
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track k9me3
+bigDataUrl k9me3.bigWig
+shortLabel k9me3
+longLabel k9me3
+type bigWig
+visibility full
+color 153,0,76
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track H33S31P
+bigDataUrl H33S31P.bigWig
+shortLabel H33S31P
+longLabel H33S31P
+type bigWig
+visibility full
+color 153,0,76
+maxHeightPixels 8:50:128
+viewLimits 0:50
+
+track Oct4
+bigDataUrl Oct4.bigWig
+shortLabel Oct4
+longLabel Oct4
+type bigWig
+visibility full
+color 153,0,76
+maxHeightPixels 158:163:181
+viewLimits 0:50
+
+track Sox2
+bigDataUrl Sox2.bigWig
+shortLabel Sox2
+longLabel Sox2
+type bigWig
+visibility full
+color 153,0,76
+maxHeightPixels 158:163:181
+viewLimits 0:50
+
+track p300
+bigDataUrl p300.bigWig
+shortLabel p300
+longLabel p300
+type bigWig
+visibility full
+color 153,0,76
+maxHeightPixels 158:163:181
+viewLimits 0:50
+
+track CTCF
+bigDataUrl CTCF.bigWig
+shortLabel CTCF
+longLabel CTCF
+type bigWig
+visibility full
+color 153,0,76
+maxHeightPixels 145:23:7
+viewLimits 0:50
+
+track H11input
+bigDataUrl H11input.bigWig
+shortLabel H11input
+longLabel H11input
+type bigWig
+visibility full
+color 89,89,89
+maxHeightPixels 8:50:128
+viewLimits 0:50
